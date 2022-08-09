@@ -288,6 +288,18 @@
               "modifiers": ["left_shift"]
             }
           ]
+        },
+        {
+          "type": "basic",
+          "from": {
+            "key_code": "caps_lock"
+          },
+          "to": [
+            {
+              "repeat": true,
+              "key_code": "escape"
+            }
+          ]
         }
       ]
     }
